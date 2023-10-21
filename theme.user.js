@@ -105,6 +105,7 @@ body {
 }
 
 #tm-header {
+    background-color: black;
     border-bottom: 4px solid #32E830;
 }
 
