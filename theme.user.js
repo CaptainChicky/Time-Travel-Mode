@@ -201,6 +201,10 @@ body {
     font-family: "Consolas";
 }
 
+.new-contributor-indicator {
+    background-color: #c8c8c8;
+}
+
 .tm-fire {
     width: 15px;
     height: 20px;
