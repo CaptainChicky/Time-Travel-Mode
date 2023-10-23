@@ -84,7 +84,9 @@ body {
     height: 20px;
 }
 
-
+header.s-topbar {
+    background-color: #242729;
+}
 
 #question-header .question-hyperlink {
     font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
