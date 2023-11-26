@@ -143,6 +143,9 @@ header.s-topbar {
 }
 
 
+.required-tag {
+    background-color: rgb(214, 235, 255) !important;
+}
 
 #left-sidebar {
     background: linear-gradient(0deg, #4395CF 0%, #9A54E3 100%);
@@ -186,7 +189,6 @@ header.s-topbar {
 #wmd-preview {
     font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
 }
-
 
 
 .community-bulletin {
@@ -245,7 +247,6 @@ header.s-topbar {
 #tm-guestbook input, #tm-guestbook textarea {
     width: 100%;
 }
-
 
 .site-footer .-link {
     text-decoration: underline;
